@@ -1,0 +1,28 @@
+pluginManagement {
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+
+    plugins {
+        id "com.android.application" version "8.13.0" apply false
+        id "com.android.library" version "8.13.0" apply false
+    }
+}
+
+include ':launcher', ':unityLibrary'
+**INCLUDES**
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        **ARTIFACTORYREPOSITORY**
+        google()
+        mavenCentral()
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}

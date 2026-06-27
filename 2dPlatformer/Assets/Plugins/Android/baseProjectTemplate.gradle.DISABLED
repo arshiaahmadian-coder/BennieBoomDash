@@ -1,0 +1,31 @@
+// Base project template for Unity Android builds
+// Compatible with:
+// - Unity 6000.0.64f1
+// - Gradle 8.13 (Unity bundled)
+// - Android Gradle Plugin 8.2.2
+// - Java 17
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:8.13.0"
+        **BUILD_SCRIPT_DEPS**
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}
+
+tasks.register('clean', Delete) {
+    delete rootProject.layout.buildDirectory
+}
