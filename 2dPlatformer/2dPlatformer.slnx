@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="Google.Play.AssetDelivery.Samples.AssetDeliveryDemo.csproj" />
+  <Project Path="Google.Android.AppBundle.Editor.csproj" />
+  <Project Path="Google.Play.AssetDelivery.csproj" />
+  <Project Path="Google.Play.Common.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Google.Play.AssetDelivery.Samples.TextureTargetingDemo.csproj" />
+  <Project Path="Google.Play.Core.csproj" />
+  <Project Path="Google.Play.AssetDelivery.Samples.AssetDeliveryDemo.Editor.csproj" />
+</Solution>
