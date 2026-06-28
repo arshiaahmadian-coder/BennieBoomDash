@@ -2,7 +2,9 @@
 
 ## About
 
-A fast-paced 2D mobile game where players must dodge dangerous fireworks and reach the finish line while collecting coins along the way. Hearts can be collected to restore health and survive longer. As players progress, new and more challenging firework types are introduced, including falling fireworks, spiral fireworks, and confusing movement patterns that increase the difficulty. The game also features a special "Firework Rain" event, where large numbers of fireworks continuously fall from the sky, creating intense survival moments that test the player's reflexes and movement skills.
+## About
+
+A 2D mobile arcade game focused on reflexes and obstacle avoidance. Players navigate through increasingly difficult levels filled with hazardous fireworks while collecting coins and health pickups. The game gradually introduces new firework behaviors, including vertical attacks, spiral trajectories, and unpredictable movement patterns. To further challenge the player, special events such as "Firework Rain" create chaotic situations where dozens of fireworks fall simultaneously, requiring quick reactions and precise movement to survive and reach the goal.
 
 ## Genre
 
