@@ -2,7 +2,7 @@
 
 ## About
 
-A game developed with Unity and C#.
+A fast-paced 2D mobile game where players must dodge dangerous fireworks and reach the finish line while collecting coins along the way. Hearts can be collected to restore health and survive longer. As players progress, new and more challenging firework types are introduced, including falling fireworks, spiral fireworks, and confusing movement patterns that increase the difficulty. The game also features a special "Firework Rain" event, where large numbers of fireworks continuously fall from the sky, creating intense survival moments that test the player's reflexes and movement skills.
 
 ## Genre
 
