@@ -34,7 +34,7 @@ Programmer / Unity
 
 ## Gameplay Video
 
-(لینک ویدئو)
+[youtube](https://youtu.be/x_PLG5jnqN8?is=yAPPoswIrOqRMTZe)
 
 ## Challenges
 
